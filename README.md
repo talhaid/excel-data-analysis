@@ -1,5 +1,10 @@
 # Excel Data Analysis Project
 
+## 📊 Dashboard
+
+![Bike Sales Dashboard](./bike-sales-dashboard.png)
+
+
 ## 📊 Project Overview
 This project focuses on performing descriptive data analysis using Microsoft Excel. It includes techniques like pivot tables, conditional formatting, charts, and Excel formulas to extract insights from a given dataset.
 
