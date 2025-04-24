@@ -1,24 +1,30 @@
-# Excel Data Analysis Project
+# 🚴‍♂️ Bike Sales Customer Analysis
 
 ## 📊 Dashboard
 
 ![Bike Sales Dashboard](./bike-sales-dashboard.png)
 
-
-## 📊 Project Overview
-This project focuses on performing descriptive data analysis using Microsoft Excel. It includes techniques like pivot tables, conditional formatting, charts, and Excel formulas to extract insights from a given dataset.
+## 📋 Project Overview
+Analyzed and visualized bike shop customer data using Microsoft Excel to identify customer segments and purchasing patterns. Developed an interactive dashboard for segmentation based on demographics (age, gender, marital status, education), commute distance, and region. The project aims to support pricing strategies and optimize revenue by understanding key customer behaviors.
 
 ## 🛠️ Tools & Techniques
 - Microsoft Excel
-- Pivot Tables
-- Charts and Graphs
+- Pivot Tables & Pivot Charts
+- Slicers for interactive filtering
 - Conditional Formatting
-- Lookup and Math Functions
+- Lookup & Statistical Functions
 
 ## 📁 Dataset
-The dataset includes sales data with columns such as region, category, sales, profit, and discount.
+The dataset includes customer information such as:
+- Demographics (Age, Gender, Marital Status, Education)
+- Commute Distance
+- Region
+- Income
+- Bike Purchase Status (Yes/No)
 
 ## 🔍 Key Insights
-- Regional sales performance
-- Top-selling categories
-- Profit vs. discount trends
+- Higher income levels correlate with increased bike purchases, especially among males.
+- Middle-aged customers represent the majority of purchases, compared to older segments.
+- Customers commuting shorter distances (0-1 miles) are more likely to purchase bikes.
+- Regional differences and educational background also influence purchasing behavior.
+
